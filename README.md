@@ -1,5 +1,5 @@
 # 💫 About Me:
-:<br>📊 Aspiring Data Analyst with a strong foundation in Python and SQL, passionate about analyzing data to uncover insights and support data-driven decision-making. Skilled in data cleaning, exploratory data analysis (EDA), and visualization, with a continuous focus on learning and applying analytical techniques to real-world datasets.
+<br>📊 Aspiring Data Analyst with a strong foundation in Python and SQL, passionate about analyzing data to uncover insights and support data-driven decision-making. Skilled in data cleaning, exploratory data analysis (EDA), and visualization, with a continuous focus on learning and applying analytical techniques to real-world datasets.
 
 
 ## 🌐 Socials:
